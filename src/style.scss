@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Karla:weight@400;700&display=swap");
+
+$font: "italic", sans-serif;
+$primary-color: #3e6f9e;
+
+body {
+  font-family: $font;
+  color: $primary-color;
+}
+
+.heading {
+    background-color: red;
+   // color: aliceblue;
+    //border: 1 px solid black;
+    // width: 400px;
+    //height: 400px;
+}
